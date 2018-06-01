@@ -10,6 +10,7 @@
 }
 
 .container #get-joke {
+  display: -ms-flexbox;
   display: flex;
   margin: 30px auto 30px;
   padding: 15px 40px;
@@ -34,5 +35,4 @@
   word-wrap: break-word;
   font-size: 35px;
 }
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
